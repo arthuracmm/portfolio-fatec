@@ -1,5 +1,7 @@
 ﻿Portfólio Fatec
 
+Host : https://65efd1b6b349f55f3e98c265--heroic-horse-4665ed.netlify.app
+
 Este é um projeto simples de site usando HTML e CSS.
 
 Este projeto consiste em um site estático com algumas páginas HTML e estilos CSS básicos. Ele foi criado como um exemplo de site simples para fins de aprendizado e pode ser usado como ponto de partida para outros projetos similares.
