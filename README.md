@@ -16,3 +16,6 @@ Se desejar fazer alterações nos estilos, edite o arquivo style.css.
 Adicione ou substitua imagens na pasta img/ conforme necessário.
 Personalize as páginas HTML conforme desejado, adicionando conteúdo ou modificando a estrutura.
 Se você deseja contribuir com este projeto, sinta-se à vontade para enviar pull requests. As contribuições são bem-vindas!
+
+![image](https://github.com/arthuracmm/portfolio-fatec/assets/130599250/00d9b819-bf34-4f3f-9874-96de9ff492e8)
+![image](https://github.com/arthuracmm/portfolio-fatec/assets/130599250/d7f59fdf-3279-46a6-9b8c-fb76ed3c7713)
